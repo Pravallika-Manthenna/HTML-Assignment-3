@@ -1,0 +1,115 @@
+.navbar-brand img{
+	width:110px;
+	height:110px;
+}
+
+.navbar-nav li{
+	padding-left:100px;
+	float-left:50px;
+	font-size: 20px;
+	color: white;
+}
+
+.navbar-nav a{
+	color: white;
+}
+.navigation{
+	background-color: #1D82C4;
+}
+
+.form-inline{
+	padding-left: 40px;
+}
+
+.hero-image {
+ background-image: url("../img/image.jpg");
+ height:660px;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ padding-top: 30px;
+}
+.hero-text{
+	text-align: center;
+	font-size: 50px;
+	color: #050417;
+	position:relative;
+	right:220px;
+	top:110px;
+
+}
+
+#abc {
+
+	padding-top: 10px;
+}
+.jumbotron{
+	background-color: #add2f3;
+	padding-bottom:40px;
+	margin-top:40px;
+	text-align: center;
+	color:#050417;
+	font-size: 25px;
+	font-style: italic;
+}
+.row img{
+  width:250px;
+  height:300px;
+  padding-bottom: 30px;
+}
+
+#services{
+	background-color:#add2f3;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	text-align: center;
+	color:#050417;
+	font-size: 25px;
+}
+#about {
+	margin-top: 40px;
+	padding-top: 35px;
+	background-color:#add2f3;
+	padding-bottom: 30px;
+	text-align: center;
+	color:#050417;
+	font-size: 25px;
+}
+.conatiner{
+	padding-bottom: 40px;
+}
+#insurance{
+	padding-top: 35px;
+	background-color: #add2f3;
+	padding-bottom: 30px;
+	text-align: center;
+	color:#050417;
+	font-size: 25px;
+}
+#us img{
+	padding-top: 20px;
+    width:90px;
+    height:130px;
+}
+
+#logo img{
+	padding-top: 20px;
+    width:160px;
+    height:130px;
+}
+.row{
+	padding-top: 40px;
+}
+#footer{
+	margin-top: 30px;
+	color: white;
+}
+.page-footer{
+	margin-top: 30px;
+	color: white;
+	background-color: #1D82C4;
+
+}
+#read{
+	margin-top: 30px;
+}
